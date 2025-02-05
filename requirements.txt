@@ -5,3 +5,4 @@ langchain-chroma
 chromadb
 openai
 python-dotenv
+pysqlite3-binary  # Forces ChromaDB to use a compatible SQLite version
